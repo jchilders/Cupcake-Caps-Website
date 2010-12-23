@@ -107,7 +107,9 @@ div.module.kinds, div.module.diagram {
 	height: 250px; /*change this number to make the A and B on the home page the same size*/
 }
 
-
+div.module.diagram {
+    padding: 0px;
+}
 
 /* @end */
 
